@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/mattgillooly/directly.svg?branch=master)](https://travis-ci.org/mattgillooly/directly)
 [![Code Climate](https://codeclimate.com/github/mattgillooly/directly/badges/gpa.svg)](https://codeclimate.com/github/mattgillooly/directly)
 
-TODO: Write a gem description
+Tools for manipulating directed dataflow graphs.
 
 ## Installation
 
