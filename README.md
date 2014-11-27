@@ -1,5 +1,6 @@
 # Directly
 
+[![Gem Version](https://badge.fury.io/rb/directly.svg)](http://badge.fury.io/rb/directly)
 [![Build Status](https://travis-ci.org/mattgillooly/directly.svg?branch=master)](https://travis-ci.org/mattgillooly/directly)
 [![Code Climate](https://codeclimate.com/github/mattgillooly/directly/badges/gpa.svg)](https://codeclimate.com/github/mattgillooly/directly)
 
